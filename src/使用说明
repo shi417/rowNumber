@@ -1,0 +1,2 @@
+控制台输入 java -jar jar包名称.jar 文件路径
+例如 java -jar rowNumber.jar f:/File

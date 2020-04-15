@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="rowNumber:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/rowNumber_jar</output-path>
+    <root id="archive" name="rowNumber.jar">
+      <element id="module-output" name="rowNumber" />
+    </root>
+  </artifact>
+</component>
